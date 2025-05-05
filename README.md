@@ -6,8 +6,6 @@ This is a Python script that listens to your voice input, converts it to text us
 
 - Speech-to-text using microphone input
 - Text translation to any supported language
-- Saves both original and translated text to a file (`translation_output.txt`)
-
 ## 🧰 Requirements
 
 - Python 3.6+
@@ -18,4 +16,4 @@ This is a Python script that listens to your voice input, converts it to text us
 1. **Clone this repository (or download the script):**
    ```bash
    git clone https://github.com/Alosius26/Naan-Mudhalvan.git
-   cd voice-translator
+
